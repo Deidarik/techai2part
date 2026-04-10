@@ -1,0 +1,13 @@
+noncore/
+legacy_courses/
+Lectures/
+lections/
+lab_4/
+Exams_2021/
+lab_schedule_6231_6233
+lab_schedule_non-core
+lab_1-2/scripts/__pycache__/
+*.pyc
+lab_1-2/scripts/datasets/cifar-10-batches-py/
+lab_3/scripts/__pycache__/
+lab_3/scripts/datasets/cifar-10-batches-py/
